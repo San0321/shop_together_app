@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "538181872736",
+    "firebase_url": "https://livetogether-8cbb8.firebaseio.com",
+    "project_id": "livetogether-8cbb8",
+    "storage_bucket": "livetogether-8cbb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538181872736:android:27d23e78dc32ec6d",
+        "android_client_info": {
+          "package_name": "com.example.livetogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538181872736-f5g59ens7ef4tkha2asmgk55tfn9frkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyH-jLWrLwpz7KOv_Y30PypTxNEiYIw88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
